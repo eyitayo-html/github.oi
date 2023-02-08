@@ -1,0 +1,101 @@
+body{
+    background-image: url(images/bg-main-desktop.png);
+    background-position: left 60%;
+    background-repeat: no-repeat;
+    height: 450px;   
+}
+.cardfront{
+    margin-left: 200px;
+    margin-top: 70px;
+    position: absolute;
+}
+/* .cardfront h3{
+    
+    margin-bottom: 500px;
+} */
+.cardtext1{
+    margin-left: 200px;
+    margin-top: 70px;
+    position: absolute;
+    padding: 100px 100px; 
+    font-weight: 400;
+    color: #fff;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 65px;
+}
+.cardtext2{
+    margin-left: 250px;
+    margin-top: 270px;
+    position: absolute; 
+    color: #fff; 
+}
+.cardtext3{
+    margin-left: 600px;
+    margin-top: 270px;
+    position: absolute; 
+    color: #fff; 
+}
+.cardtext4{
+    margin-left: 600px;
+    margin-top: 450px;
+    position: absolute;
+    color: #fff;
+    font-weight: 600;   
+}
+.cardlogo{
+    margin-left: 250px;
+    margin-top: 90px;
+    position: absolute;
+    size: 20px;  
+}
+span{
+    margin-right: 100px;
+}
+.cardback{
+    margin-left: 250px;
+    margin-top: 350px;
+    position: absolute;
+}
+aside{
+    display: flex;
+    float: right;
+    margin-top: 100px;
+    padding-right: 200px;
+    
+}
+input{
+ border-radius: 6px;
+ width: 300px;
+ height: 30px;
+ 
+}
+.mm{
+    border-radius: 6px;
+    width: 50px;
+    height: 30px;   
+}
+.yy{
+    border-radius: 6px;
+    width: 50px;
+    height: 30px;   
+}
+.cvc{
+    border-radius: 6px;
+    width: 50px;
+    height: 30px;   
+}
+button{
+    width: 300px;
+    height: 40px;
+    background: rgb(22, 22, 61);
+    border-radius: 5px;
+    border: rgb(6, 6, 37);
+    color: #fff;
+    font-weight: 600;
+    position: relative;
+}
+.ccc{
+    padding-left: 150px;
+    padding: 5px;   
+}
